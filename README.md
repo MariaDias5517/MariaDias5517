@@ -30,7 +30,9 @@
 
 ## 📊 GitHub Stats
 
-![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaDias5517&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaDias5517&show_icons=true&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -62,7 +64,7 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaDias5517&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDias5517&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -70,4 +72,4 @@
 ## 📫 Contato
 
 📧 mariadias5517@gmail.com 
-💼 LinkedIn: https://www.linkedin.com/in/maria-eduarda-verissimo-dias-3605b8261?utm_source=share_via&utm_content=profile&utm_medium=member_android
+💼 LinkedIn: https://www.linkedin.com/in/maria-eduarda-verissimo-dias-3605b8261
