@@ -50,5 +50,5 @@
 
 ## 📫 Contato
 
-📧 SeuEmail@gmail.com  
-💼 LinkedIn: coloque aqui
+📧 mariadias5517@gmail.com 
+💼 LinkedIn: https://www.linkedin.com/in/maria-eduarda-verissimo-dias-3605b8261?utm_source=share_via&utm_content=profile&utm_medium=member_android
