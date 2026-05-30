@@ -28,12 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaDias5517&show_icons=true&theme=tokyonight)
-
----
-
 ## 🛠 Tecnologias
 
 <p>
@@ -45,11 +39,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
----
-
-## 📈 Linguagens Mais Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDias5517&layout=compact&theme=tokyonight)
 
 ---
 
