@@ -3,7 +3,7 @@
 🎓 Estudante de Sistemas de Informação  
 📱 Desenvolvedora em formação  
 🧪 QA | Testes de Software  
-💡 Aprendendo, testando e criando projetos com propósito
+💡 Aprendendo, testando e criando projetos com propósito  
 
 ---
 
@@ -22,7 +22,7 @@
 
 - 📱 Aplicativo To Do List
 - 🏥 Aplicativo de saúde digital
-- 📚 Site educacional 
+- 📚 Site educacional
 - 📡 Projeto AirDrop para Android
 - 🌐 Projetos Web e Mobile
 
@@ -31,9 +31,7 @@
 ## 📊 GitHub Stats
 
 ![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaDias5517&show_icons=true&theme=tokyonight)
----
 
-✨ Sempre aprendendo novas tecnologias
 ---
 
 ## 🛠 Tecnologias
@@ -49,24 +47,17 @@
 
 ---
 
-## 📌 Projetos
+## 📈 Linguagens Mais Usadas
 
-- 📱 Aplicativo To Do List
-- 🏥 Protótipo de aplicativo de saúde digital
-- 📡 Aplicativo estilo AirDrop para Android
-- 🌐 Projetos Web e Mobile
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDias5517&layout=compact&theme=tokyonight"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDias5517&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contato
 
-📧 mariadias5517@gmail.com 
+📧 Email: mariadias5517@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/maria-eduarda-verissimo-dias-3605b8261
+
+---
+
+✨ Sempre aprendendo novas tecnologias
