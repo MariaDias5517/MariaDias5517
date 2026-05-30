@@ -1,21 +1,40 @@
-<h1 align="center">Olá 👋 Eu sou Maria Eduarda</h1>
+# Olá, eu sou Maria Eduarda! 👩🏽‍💻
 
-<p align="center">
-🎓 Estudante de Sistemas de Informação <br>
-💻 Desenvolvedora em formação <br>
-🧪 QA | Testes de Software | Android Developer
-</p>
+🎓 Estudante de Sistemas de Informação  
+📱 Desenvolvedora em formação  
+🧪 QA | Testes de Software  
+💡 Aprendendo, testando e criando projetos com propósito
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Tecnologias
 
-- 📚 Estudando Sistemas de Informação
-- 📱 Desenvolvendo aplicativos Android com Kotlin e Aprendendo sobre desenvolvimento Fullstack 
-- 🧪 Atuando na área de Qualidade e Testes de Software
-- 🌱 Sempre aprendendo novas tecnologias
-- 💡 Interesse em desenvolvimento mobile e web e inovação
+- Kotlin
+- Java
+- HTML
+- CSS
+- MySQL
+- Git e GitHub
 
+---
+
+## 📌 Projetos
+
+- 📱 Aplicativo To Do List
+- 🏥 Aplicativo de saúde digital
+- 📚 Site educacional 
+- 📡 Projeto AirDrop para Android
+- 🌐 Projetos Web e Mobile
+
+---
+
+## 📊 GitHub Stats
+
+![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaDias5517&show_icons=true&theme=tokyonight)
+
+---
+
+✨ Sempre aprendendo novas tecnologias
 ---
 
 ## 🛠 Tecnologias
