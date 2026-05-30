@@ -1,4 +1,4 @@
-# Olá, eu sou Maria Eduarda! 👩🏽‍💻
+# Olá, eu sou Maria Eduarda! 🥰
 
 🎓 Estudante de Sistemas de Informação  
 📱 Desenvolvedora em formação  
@@ -30,10 +30,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaDias5517&show_icons=true&theme=tokyonight"/>
-</p>
-
+![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaDias5517&show_icons=true&theme=tokyonight)
 ---
 
 ✨ Sempre aprendendo novas tecnologias
